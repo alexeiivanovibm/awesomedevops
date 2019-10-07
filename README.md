@@ -1,2 +1,2 @@
 # Awesome DevOps
-Placeholder repo from custom html pages for Openshift blog.
+Placeholder repo for Openshift blog app configuration.
